@@ -1,6 +1,9 @@
 _repo: Against-the-Grain_12341
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: A rebours. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Huysmans, J.-K. (Joris-Karl)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4324
     wikipedia: http://en.wikipedia.org/wiki/Joris-Karl_Huysmans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12341#Against-the-Grain
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
